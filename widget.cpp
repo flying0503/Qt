@@ -1,6 +1,6 @@
 #include "widget.h"
 #include "ui_widget.h"
-
+//2019-1-27
 Widget::Widget(QWidget *parent) :
     QWidget(parent),
     ui(new Ui::Widget)
